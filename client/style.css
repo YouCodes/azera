@@ -13,6 +13,9 @@ body {
 textarea{
   resize: none;
 }
+textarea::-webkit-scrollbar {
+  display: none;
+}
 
 #app {
   width: 100vw;
