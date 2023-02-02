@@ -10,6 +10,9 @@
 body {
   background: #343541;
 }
+textarea{
+  resize: none;
+}
 
 #app {
   width: 100vw;
